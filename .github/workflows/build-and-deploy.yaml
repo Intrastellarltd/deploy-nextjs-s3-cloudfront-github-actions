@@ -15,8 +15,8 @@
       env:
         NEXTJS_DIST: out
         AWS_REGION: us-east-1
-        S3_BUCKET: nextjs-s3-cloudfront-mnm
-        CLOUDFRONT_DISTRIBUTION_ID: E19M07TM9MI9FH
+        S3_BUCKET: s3-cloudfront-nextjs-mnm-07082023
+        CLOUDFRONT_DISTRIBUTION_ID: EK3P05DHHQF7W
   
       steps:
         - name: Checkout
